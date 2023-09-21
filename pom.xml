@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://52.3.255.39:8081/repository/Myproject-releases/</url>
+	      <url>http://100.26.153.17:8081/repository/Ventures-AI-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.3.255.39:8081/repository/Myproject-snapshots/</url>
+	      <url>http://100.26.153.17:8081/repository/Ventures-AI-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
